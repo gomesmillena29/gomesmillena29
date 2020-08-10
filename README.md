@@ -11,7 +11,7 @@ Amo Games🎮❤.
 - 💻 HTML,CSS,Javascript e React
 
 -## 📫 How to reach me:
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-gomes/)] (https://www.linkedin.com/in/millena-gomes/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/millena_gomes/](https://www.instagram.com/millena_gomes/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-gomes/)](https://www.linkedin.com/in/millena-gomes/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/millena_gomes/](https://www.instagram.com/millena_gomes/)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-gomes/] (https://www.linkedin.com/in/millena-gomes/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/millena_gomes/)](https://www.instagram.com/millena_gomes/)
 
 
