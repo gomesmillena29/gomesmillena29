@@ -1,7 +1,6 @@
 # Hey Guys👋
 
-<!--
-**gomesmillena29/gomesmillena29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Muito curiosa com tecnologia e curiosa, ingressei no mundo de front-end e tive essa oportunidade através da {Reprograma}...💻❤
 Amo Games🎮❤.
@@ -15,4 +14,4 @@ Amo Games🎮❤.
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-gomes/)] [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/millena_gomes/](https://www.instagram.com/millena_gomes/)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-gomes/] [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/millena_gomes/)](https://www.instagram.com/millena_gomes/)
 
--->
+
