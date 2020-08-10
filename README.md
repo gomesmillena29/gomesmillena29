@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey Guys👋
 
 <!--
 **gomesmillena29/gomesmillena29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Muito curiosa com tecnologia e curiosa, ingressei no mundo de front-end e tive essa oportunidade através da {Reprograma}...💻❤
+Amo Games🎮❤.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### "Só sei que nada sei, e o fato de saber isso, me coloca em vantagem sobre aqueles que acham que sabem alguma coisa."
+
+- 🌱 Procurando uma oportunidade na área de front-end jr
+- 💻 ####HTML,CSS,Javascript e React
+
+-## 📫 How to reach me:
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-gomes/)] [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/millena_gomes/](https://www.instagram.com/millena_gomes/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-gomes/] [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/millena_gomes/)](https://www.instagram.com/millena_gomes/)
+
 -->
