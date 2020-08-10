@@ -7,8 +7,8 @@ Amo Games🎮❤.
 
 #### "Só sei que nada sei!"
 
-- 🌱 Procurando uma oportunidade na área de front-end jr
-- 💻 HTML,CSS,Javascript e React
+- 🌱 Procurando uma oportunidade na área de front-end JR
+- 💻 HTML,CSS,Git,Javascript e React
 
 ## 📫 Contatos:
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-gomes/)](https://www.linkedin.com/in/millena-gomes/)
