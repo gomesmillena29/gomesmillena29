@@ -2,7 +2,7 @@
 
 
 
-Muito curiosa com tecnologia e curiosa, ingressei no mundo de front-end e tive essa oportunidade através da {Reprograma}...💻❤
+Muito curiosa com tecnologia, ingressei no mundo de front-end e tive essa oportunidade através da {Reprograma}...💻❤
 Amo Games🎮❤.
 
 #### "Só sei que nada sei, e o fato de saber isso, me coloca em vantagem sobre aqueles que acham que sabem alguma coisa."
