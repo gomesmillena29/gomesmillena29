@@ -7,7 +7,7 @@ Amo Games🎮❤.
 
 #### "Só sei que nada sei!"
 
-- 🌱 Procurando uma oportunidade na área de front-end JR
+- 🌱 Aprimorando conhecimento na área de front-end; 
 - 💻 HTML,CSS,Git,Javascript e React
 
 ## 📫 Contatos:
