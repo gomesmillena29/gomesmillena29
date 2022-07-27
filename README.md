@@ -8,7 +8,7 @@ Amo Games🎮❤.
 #### "Só sei que nada sei!"
 
 - 🌱 Aprimorando conhecimento na área de front-end; 
-- 💻 HTML,CSS,Git,Javascript e React
+- 💻 HTML,CSS,Git,Javascript e React/React Native
 
 ## 📫 Contatos:
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-gomes/)](https://www.linkedin.com/in/millena-gomes/)
