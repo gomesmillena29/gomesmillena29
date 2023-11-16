@@ -2,7 +2,8 @@
 
 
 
-Muito curiosa com tecnologia, ingressei no mundo de front-end e tive essa oportunidade através da {Reprograma}...💻❤
+Ingressei no mundo de front-end e tive essa oportunidade através da {Reprograma}...💻❤
+Atuo como QA e vivo em constante aprendizado❤.
 Amo Games🎮❤.
 
 #### "Só sei que nada sei!"
